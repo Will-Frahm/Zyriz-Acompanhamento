@@ -72,7 +72,7 @@ class OutlookEmail:
 # --- CONFIGURAÇÃO ---
 outlook = OutlookEmail(
     remetente="ouvidoria.mercado@audiofrahm.com.br",
-    senha="euno nrfj lutr qsuz"
+    senha=""
 )
 
 # Lista de e-mails e arquivos
